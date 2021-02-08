@@ -362,17 +362,17 @@ body.active .mscroll {
 }
 /* Our blog end */
 /* Footer */
-#Contact {
+#Client {
 	text-align: center;
 	padding: 70px 0 50px 0;
 	background-color: #333f4f;
 }
-#Contact p {
+#Client p {
     color: #c7c5ca;
     font-size: 40px;
     margin-bottom: 30px;
 }
-#Contact a.email-btn {
+#Client a.email-btn {
     color: #fff;
     background-color: #f46674;
     padding: 12px 30px;
@@ -381,14 +381,14 @@ body.active .mscroll {
     font-size: 28px;
     width: 240px;
 }
-#Contact a.email-btn span {
+#Client a.email-btn span {
   cursor: pointer;
   display: inline-block;
   position: relative;
   transition: 0.5s;
 }
 
-#Contact a.email-btn span:after {
+#Client a.email-btn span:after {
   content: '\00bb';
   position: absolute;
   opacity: 0;
@@ -397,15 +397,15 @@ body.active .mscroll {
   transition: 0.5s;
 }
 
-#Contact a.email-btn:hover span {
+#Client a.email-btn:hover span {
   padding-right: 25px;
 }
 
-#Contact a.email-btn:hover span:after {
+#Client a.email-btn:hover span:after {
   opacity: 1;
   right: 0;
 }
-#Contact a i {
+#Client a i {
 	margin-right: 14px;
 }
 .social-icons {
